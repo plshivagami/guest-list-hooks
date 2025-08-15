@@ -1,0 +1,42 @@
+export const GUESTS = [
+  {
+    id: 1,
+    name: "Abhigail",
+    email: "Abhi.Steuber@example.com",
+    phone: "466-489-9248 x348",
+    bio: "Enjoys local meetups and travel.",
+    job: "Project Manager",
+  },
+  {
+    id: 2,
+    name: "Rakshan Luettgen",
+    email: "Raksh_Luettgen43@example.org",
+    phone: "1-333-579-6094 x83316",
+    bio: "Avid reader and foodie.",
+    job: "Data Analyst",
+  },
+  {
+    id: 3,
+    name: "Eliana Mayert",
+    email: "Eli_Mayert@example.org",
+    phone: "583-250-0421 x9996",
+    bio: "Volunteers at coding clubs.",
+    job: "Software Engineer",
+  },
+  {
+    id: 4,
+    name: "Anu Rath",
+    email: "Anu_Rath@example.net",
+    phone: "(805) 768-9474",
+    bio: "Coffee enthusiast and hiker.",
+    job: "UX Designer",
+  },
+  {
+    id: 5,
+    name: "Emiely Breitenberg",
+    email: "Emie_Breitenberg2@example.net",
+    phone: "(789) 242-4319 x81157",
+    bio: "Board games + photography.",
+    job: "Marketing Associate",
+  },
+];
